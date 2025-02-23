@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+langchain-openai
+ipykernel
+BeautifulSoup4
+langchain_community
+streamlit
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+transformers
+PyMuPDF
+langchain_nvidia_ai
